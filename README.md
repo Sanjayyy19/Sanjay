@@ -148,7 +148,7 @@ print(me.motto())
 
 | Degree | Institution | Year | Score |
 |---|---|---|---|
-| M.Sc. Data Science | SASTRA Deemed University, Chennai | 2024 – 2026 | Pursuing |
+| M.Sc. Data Science | SASTRA Deemed University, Chennai | 2024 – 2026 | CGPA: 7.01/10 |
 | B.Com (Computer Application) | Ramakrishna Mission Vivekananda College (Autonomous) | 2021 – 2024 | CGPA: 6.1/10 |
 
 </div>
